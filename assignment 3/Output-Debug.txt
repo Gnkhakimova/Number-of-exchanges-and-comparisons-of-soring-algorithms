@@ -1,0 +1,20 @@
+﻿'assignment 3.exe' (Win32): Loaded 'C:\Users\Gulnoza\Documents\Visual Studio 2015\Projects\assignment 3\Debug\assignment 3.exe'. Symbols loaded.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'assignment 3.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+The thread 0x3688 has exited with code 0 (0x0).
+The thread 0x2d58 has exited with code 0 (0x0).
+The thread 0x3a68 has exited with code 0 (0x0).
+The thread 0x2cc0 has exited with code 0 (0x0).
+The program '[11064] assignment 3.exe' has exited with code 0 (0x0).
